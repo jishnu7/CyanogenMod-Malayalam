@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- 
 /* //device/apps/common/assets/res/any/strings.xml
 **
@@ -35,156 +35,156 @@
     <string name="defaultVoiceMailAlphaTag" msgid="2660020990097733077">"വോയിസ് മെയില്‍"</string>
     <string name="defaultMsisdnAlphaTag" msgid="2850889754919584674">"MSISDN1"</string>
     <string name="mmiError" msgid="5154499457739052907">"കണക്ഷനില്‍ പ്രശ്നം അല്ലെങ്കില്‍ അസാധുവായ MMI കോഡ്."</string>
-    <string name="mmiFdnError" msgid="5224398216385316471">"Operation is restricted to fixed dialling numbers only."</string>
+    <string name="mmiFdnError" msgid="5224398216385316471">"ഓപ്പറേഷന്‍ സ്ഥിര ഡയലിങ്ങ് നമ്പറുകളിലേക്ക് മാത്രം നിയന്ത്രിക്കപ്പെട്ടിരിക്കുന്നു."</string>
     <string name="serviceEnabled" msgid="8147278346414714315">"സേവനം പ്രവര്‍ത്തന സജ്ജമാക്കി."</string>
-    <string name="serviceEnabledFor" msgid="6856228140453471041">"Service was enabled for:"</string>
-    <string name="serviceDisabled" msgid="1937553226592516411">"Service has been disabled."</string>
-    <string name="serviceRegistered" msgid="6275019082598102493">"Registration was successful."</string>
-    <string name="serviceErased" msgid="1288584695297200972">"Erase successful."</string>
-    <string name="passwordIncorrect" msgid="7612208839450128715">"Incorrect password."</string>
-    <string name="mmiComplete" msgid="8232527495411698359">"MMI complete."</string>
-    <string name="badPin" msgid="9015277645546710014">"The old PIN that you typed is incorrect."</string>
-    <string name="badPuk" msgid="5487257647081132201">"The PUK that you typed isn\'t correct."</string>
-    <string name="mismatchPin" msgid="609379054496863419">"The PINs that you typed don\'t match."</string>
-    <string name="invalidPin" msgid="3850018445187475377">"Type a PIN that is 4 to 8 numbers."</string>
-    <string name="invalidPuk" msgid="8761456210898036513">"Type a PUK that is 8 numbers or longer."</string>
-    <string name="needPuk" msgid="919668385956251611">"Your SIM card is PUK-locked. Type the PUK code to unlock it."</string>
-    <string name="needPuk2" msgid="4526033371987193070">"Type PUK2 to unblock SIM card."</string>
-    <string name="imei" msgid="2625429890869005782">"IMEI"</string>
-    <string name="meid" msgid="4841221237681254195">"MEID"</string>
-    <string name="ClipMmi" msgid="6952821216480289285">"Incoming Caller ID"</string>
-    <string name="ClirMmi" msgid="7784673673446833091">"Outgoing Caller ID"</string>
-    <string name="CfMmi" msgid="5123218989141573515">"Call forwarding"</string>
-    <string name="CwMmi" msgid="9129678056795016867">"Call waiting"</string>
-    <string name="BaMmi" msgid="455193067926770581">"Call barring"</string>
-    <string name="PwdMmi" msgid="7043715687905254199">"Password change"</string>
-    <string name="PinMmi" msgid="3113117780361190304">"PIN change"</string>
-    <string name="CnipMmi" msgid="3110534680557857162">"Calling number present"</string>
-    <string name="CnirMmi" msgid="3062102121430548731">"Calling number restricted"</string>
-    <string name="ThreeWCMmi" msgid="9051047170321190368">"Three-way calling"</string>
-    <string name="RuacMmi" msgid="7827887459138308886">"Rejection of undesired annoying calls"</string>
-    <string name="CndMmi" msgid="3116446237081575808">"Calling number delivery"</string>
-    <string name="DndMmi" msgid="1265478932418334331">"Do not disturb"</string>
-    <string name="CLIRDefaultOnNextCallOn" msgid="429415409145781923">"Caller ID defaults to restricted. Next call: Restricted"</string>
-    <string name="CLIRDefaultOnNextCallOff" msgid="3092918006077864624">"Caller ID defaults to restricted. Next call: Not restricted"</string>
-    <string name="CLIRDefaultOffNextCallOn" msgid="6179425182856418465">"Caller ID defaults to not restricted. Next call: Restricted"</string>
-    <string name="CLIRDefaultOffNextCallOff" msgid="2567998633124408552">"Caller ID defaults to not restricted. Next call: Not restricted"</string>
-    <string name="serviceNotProvisioned" msgid="8614830180508686666">"Service not provisioned."</string>
-    <string name="CLIRPermanent" msgid="3377371145926835671">"You can\'t change the caller ID setting."</string>
-    <string name="RestrictedChangedTitle" msgid="5592189398956187498">"Restricted access changed"</string>
-    <string name="RestrictedOnData" msgid="8653794784690065540">"Data service is blocked."</string>
-    <string name="RestrictedOnEmergency" msgid="6581163779072833665">"Emergency service is blocked."</string>
-    <string name="RestrictedOnNormal" msgid="4953867011389750673">"Voice service is blocked."</string>
-    <string name="RestrictedOnAllVoice" msgid="3396963652108151260">"All voice services are blocked."</string>
-    <string name="RestrictedOnSms" msgid="8314352327461638897">"SMS service is blocked."</string>
-    <string name="RestrictedOnVoiceData" msgid="996636487106171320">"Voice/Data services are blocked."</string>
-    <string name="RestrictedOnVoiceSms" msgid="1888588152792023873">"Voice/SMS services are blocked."</string>
-    <string name="RestrictedOnAll" msgid="5643028264466092821">"All voice/data/SMS services are blocked."</string>
-    <string name="serviceClassVoice" msgid="1258393812335258019">"Voice"</string>
-    <string name="serviceClassData" msgid="872456782077937893">"Data"</string>
-    <string name="serviceClassFAX" msgid="5566624998840486475">"FAX"</string>
-    <string name="serviceClassSMS" msgid="2015460373701527489">"SMS"</string>
-    <string name="serviceClassDataAsync" msgid="4523454783498551468">"Async"</string>
-    <string name="serviceClassDataSync" msgid="7530000519646054776">"Sync"</string>
-    <string name="serviceClassPacket" msgid="6991006557993423453">"Packet"</string>
-    <string name="serviceClassPAD" msgid="3235259085648271037">"PAD"</string>
-    <string name="roamingText0" msgid="7170335472198694945">"Roaming Indicator On"</string>
-    <string name="roamingText1" msgid="5314861519752538922">"Roaming Indicator Off"</string>
-    <string name="roamingText2" msgid="8969929049081268115">"Roaming Indicator Flashing"</string>
-    <string name="roamingText3" msgid="5148255027043943317">"Out of local area"</string>
-    <string name="roamingText4" msgid="8808456682550796530">"Out of Building"</string>
-    <string name="roamingText5" msgid="7604063252850354350">"Roaming - Preferred System"</string>
-    <string name="roamingText6" msgid="2059440825782871513">"Roaming - Available System"</string>
+    <string name="serviceEnabledFor" msgid="6856228140453471041">"സേവനം പ്രവര്‍ത്തന സജ്ജമാക്കിയിരിക്കുന്നത്:"</string>
+    <string name="serviceDisabled" msgid="1937553226592516411">"സേവനം പ്രവര്‍ത്തന രഹിതമാക്കപ്പെട്ടിരിക്കുന്നു."</string>
+    <string name="serviceRegistered" msgid="6275019082598102493">"രജിസ്ട്രേഷന്‍  വിജയിച്ചിരിക്കുന്നു ."</string>
+    <string name="serviceErased" msgid="1288584695297200972">"മായ്ചു കളയുന്നതില്‍ വിജയിച്ചിരിക്കുന്നു."</string>
+    <string name="passwordIncorrect" msgid="7612208839450128715">"തെറ്റായ പാസ്‌വേര്‍ഡ്."</string>
+    <string name="mmiComplete" msgid="8232527495411698359">"എം.എം.ഐ പൂര്‍ത്തിയായി."</string>
+    <string name="badPin" msgid="9015277645546710014">"താങ്കള്‍ ടൈപ് ചെയ്ത പഴയ പിന്‍ ശരിയല്ല."</string>
+    <string name="badPuk" msgid="5487257647081132201">"താങ്കള്‍ ടൈപ് ചെയ്ത പി.യു.കെ ശരിയല്ല."</string>
+    <string name="mismatchPin" msgid="609379054496863419">"താങ്കള്‍ ടൈപ് ചെയ്ത പിന്നുകള്‍ തമ്മില്‍ യോജിക്കുന്നില്ല."</string>
+    <string name="invalidPin" msgid="3850018445187475377">"4 മുതല്‍ 8 സംഖ്യയുളള ഒരു പിന്‍ ടൈപ് ചെയുക."</string>
+    <string name="invalidPuk" msgid="8761456210898036513">"എട്ടൊ അതില്‍ കൂടു്തലൊ സംഖ്യ ഉളള ഒരു പി.യു.കെ ടൈപ്  ചെയുക."</string>
+    <string name="needPuk" msgid="919668385956251611">" താങ്കളുടെ സിം കാര്‍ഡ്  പി.യു.കെ ഉപയോഗിച്ച് ലോക്ക് ചെയ്തിരിക്കുന്നു.അണ്‍ലോക്ക് ചെയ്യാന്‍ പി.യു.കെ കോഡ്    	     ടൈപ് ചെയുക്."</string>
+    <string name="needPuk2" msgid="4526033371987193070">"സിം കാര്‍ഡ്  അണ്‍ബ്ലോക്ക് ചെയ്യാന്‍ പി.യു.കെ 2 ടൈപ് ചെയ്യുക്."</string>
+    <string name="imei" msgid="2625429890869005782">"ഐ.എം.ഇ.ഐ "</string>
+    <string name="meid" msgid="4841221237681254195">"എം.ഇ.ഐ.ഡി"</string>
+    <string name="ClipMmi" msgid="6952821216480289285">"ഇങ്ങോട്ട് വിളിക്കുന്ന ആളിന്റെ ഐഡി"</string>
+    <string name="ClirMmi" msgid="7784673673446833091">"പുറത്തേക്ക് വിളിക്കുന്ന ആളിന്റെ ഐഡി </string>
+    <string name="CfMmi" msgid="5123218989141573515">"കോള്‍ ഫോര്‍വേഡ് ചെയ്യുന്നു"</string>
+    <string name="CwMmi" msgid="9129678056795016867">"കോള്‍ കാത്തിരിക്കുന്നു"</string>
+    <string name="BaMmi" msgid="455193067926770581">"കോള്‍ തടയുക"</string>
+    <string name="PwdMmi" msgid="7043715687905254199">"പാസ്‍വേര്‍ഡ് മാറ്റുക"</string>
+    <string name="PinMmi" msgid="3113117780361190304">"പിന്‍ മാററ്റുക"</string>
+    <string name="CnipMmi" msgid="3110534680557857162">"വിളിക്കുന്ന നമ്പര്‍ ഉണ്ടു്"</string>
+    <string name="CnirMmi" msgid="3062102121430548731">"വിളിക്കുന്ന നമ്പര്‍ നിയന്ത്രിച്ചിരിക്കുന്നു"</string>
+    <string name="ThreeWCMmi" msgid="9051047170321190368">"മൂന്നു വഴിക്കുളള വിളികള്‍ "</string>
+    <string name="RuacMmi" msgid="7827887459138308886">"ആവശ്യമില്ലാത്ത ശല്യപ്പെടുത്തുന്ന കോളുകളുടെ അവഗണന"</string>
+    <string name="CndMmi" msgid="3116446237081575808">"കോളര്‍ ഐ.ഡി "</string>
+    <string name="DndMmi" msgid="1265478932418334331">"ദയവായി ശല്ല്യം ചെയ്യരുത്"</string>
+    <string name="CLIRDefaultOnNextCallOn" msgid="429415409145781923">"കോളര്‍ ഐഡി ഡിഫോള്‍ട്ടായി നിയന്ത്രിക്കപ്പെട്ടിരിക്കുന്നു ആണ്.അടുത്ത കോള്‍: നിയന്ത്രികപ്പെട്ടിരിക്കുന്നു"</string>
+    <string name="CLIRDefaultOnNextCallOff" msgid="3092918006077864624">"കോളര്‍ ഐഡി ഡിഫോള്‍ട്ടായി നിയന്ത്രിക്കപ്പെട്ടിരിക്കുന്നു ആണ്.അടുത്ത കോള്‍:നിയന്ത്രിക്കപ്പെട്ടിട്ടില്ല"</string>
+    <string name="CLIRDefaultOffNextCallOn" msgid="6179425182856418465">"കോളര്‍ ഐഡി ഡിഫോള്‍ട്ടായി നിയന്ത്രിക്കപ്പെട്ടിട്ടില്ല ആണ്.അടുത്ത കോള്‍: നിയന്ത്രികപ്പെട്ടിരിക്കുന്നു"</string>
+    <string name="CLIRDefaultOffNextCallOff" msgid="2567998633124408552">"കോളര്‍ ഐഡി ഡിഫോള്‍ട്ടായി നിയന്ത്രിക്കപ്പെട്ടിട്ടില്ല ആണ്.അടുത്ത കോള്‍:നിയന്ത്രിക്കപ്പെട്ടിട്ടില്ല"</string>
+    <string name="serviceNotProvisioned" msgid="8614830180508686666">"സേവനം ലഭ്യമല്ല."</string>
+    <string name="CLIRPermanent" msgid="3377371145926835671">"താങ്കള്‍ക്ക് കോളര്‍ ഐഡി ക്രമീകരണങ്ങള്‍ മാറ്റാന്‍ സാധിക്കുന്നതല്ല."</string>
+    <string name="RestrictedChangedTitle" msgid="5592189398956187498">"നിയന്ത്രിത പ്രവേശനം മാറ്റപ്പെട്ടിരിക്കുന്നു"</string>
+    <string name="RestrictedOnData" msgid="8653794784690065540">"ഡാറ്റാ സേവനം തടയപ്പെട്ടിരിക്കുന്നു."</string>
+    <string name="RestrictedOnEmergency" msgid="6581163779072833665">"അത്യാവശ്യ സേവനം തടയപ്പെട്ടിരിക്കുന്നു."</string>
+    <string name="RestrictedOnNormal" msgid="4953867011389750673">"വോയിസ് സേവനം തടയപ്പെട്ടിരിക്കുന്നു."</string>
+    <string name="RestrictedOnAllVoice" msgid="3396963652108151260">"എല്ലാ വോയിസ്  സേവനങ്ങളും തടയപ്പെട്ടിരിക്കുന്നു."</string>
+    <string name="RestrictedOnSms" msgid="8314352327461638897">"എസ്.എം.എസ് സേവനം തടയപ്പെട്ടിരിക്കുന്നു."</string>
+    <string name="RestrictedOnVoiceData" msgid="996636487106171320">"വോയിസ്/ഡാറ്റാ സേവനങ്ങള്‍ തടയപ്പെട്ടിരിക്കുന്നു."</string>
+    <string name="RestrictedOnVoiceSms" msgid="1888588152792023873">"വോയിസ്/എസ്.എം.എസ് സേവനങ്ങള്‍ തടയപ്പെട്ടിരിക്കുന്നു."</string>
+    <string name="RestrictedOnAll" msgid="5643028264466092821">"എല്ലാ വോയിസ്/ഡാറ്റാ/എസ്.എം.എസ് സേവനങ്ങളും തടയപ്പെട്ടിരിക്കുന്നു."</string>
+    <string name="serviceClassVoice" msgid="1258393812335258019">"വോയിസ്"</string>
+    <string name="serviceClassData" msgid="872456782077937893">"ഡാറ്റാ"</string>
+    <string name="serviceClassFAX" msgid="5566624998840486475">"ഫാക്സ് "</string>
+    <string name="serviceClassSMS" msgid="2015460373701527489">"എസ്.എം.എസ് "</string>
+    <string name="serviceClassDataAsync" msgid="4523454783498551468">"എസിങ്ക് "</string>
+    <string name="serviceClassDataSync" msgid="7530000519646054776">"സിങ്ക് "</string>
+    <string name="serviceClassPacket" msgid="6991006557993423453">"പാക്കറ്റ്"</string>
+    <string name="serviceClassPAD" msgid="3235259085648271037">"പാഡ്"</string>
+    <string name="roamingText0" msgid="7170335472198694945">"റോമിങ്ങ് ഇന്‍ഡികേറ്റര്‍ ഓണ്‍"</string>
+    <string name="roamingText1" msgid="5314861519752538922">"റോമിങ്ങ് ഇന്‍ഡികേറ്റര്‍ ഓഫ്"</string>
+    <string name="roamingText2" msgid="8969929049081268115">"റോമിങ്ങ് ഇന്‍ഡികേറ്റര്‍ ഫ്ളാഷിങ്ങ്"</string>
+    <string name="roamingText3" msgid="5148255027043943317">"ലോക്കല്‍ ഏരിയക്ക് പുറത്ത്"</string>
+    <string name="roamingText4" msgid="8808456682550796530">"ബില്‍ഡിങ്ങിന് പുറത്ത്"</string>
+    <string name="roamingText5" msgid="7604063252850354350">"റോമിങ്ങ് താത്പര്യപ്പെടുന്ന സിസ്റ്റ്ം"</string>
+    <string name="roamingText6" msgid="2059440825782871513">"റോമിങ്ങ് ലഭ്യമാകുന്ന സിസ്റ്റ്ം"</string>
     <string name="roamingText7" msgid="7112078724097233605">"Roaming - Alliance Partner"</string>
     <string name="roamingText8" msgid="5989569778604089291">"Roaming - Premium Partner"</string>
     <string name="roamingText9" msgid="7969296811355152491">"Roaming - Full Service Functionality"</string>
     <string name="roamingText10" msgid="3992906999815316417">"Roaming - Partial Service Functionality"</string>
-    <string name="roamingText11" msgid="4154476854426920970">"Roaming Banner On"</string>
-    <string name="roamingText12" msgid="1189071119992726320">"Roaming Banner Off"</string>
-    <string name="roamingTextSearching" msgid="8360141885972279963">"Searching for Service"</string>
-    <string name="cfTemplateNotForwarded" msgid="1683685883841272560">"<xliff:g id="BEARER_SERVICE_CODE">{0}</xliff:g>: Not forwarded"</string>
+    <string name="roamingText11" msgid="4154476854426920970">"റോമിങ്ങ് ബാനര്‍ ഓണ്‍"</string>
+    <string name="roamingText12" msgid="1189071119992726320">"റോമിങ്ങ് ബാനര്‍ ഓഫ് "</string>
+    <string name="roamingTextSearching" msgid="8360141885972279963">"സേവനത്തിന് വേണ്ടി തിരയുന്നു"</string>
+    <string name="cfTemplateNotForwarded" msgid="1683685883841272560">"<xliff:g id="BEARER_SERVICE_CODE">{0}</xliff:g>: ഫോര്‍വേഡ് ചെയ്യപ്പെട്ടിട്ടില്ല"</string>
     <string name="cfTemplateForwarded" msgid="1302922117498590521">"<xliff:g id="BEARER_SERVICE_CODE">{0}</xliff:g>: <xliff:g id="DIALING_NUMBER">{1}</xliff:g>"</string>
     <string name="cfTemplateForwardedTime" msgid="9206251736527085256">"<xliff:g id="BEARER_SERVICE_CODE">{0}</xliff:g>: <xliff:g id="DIALING_NUMBER">{1}</xliff:g> after <xliff:g id="TIME_DELAY">{2}</xliff:g> seconds"</string>
-    <string name="cfTemplateRegistered" msgid="5073237827620166285">"<xliff:g id="BEARER_SERVICE_CODE">{0}</xliff:g>: Not forwarded"</string>
-    <string name="cfTemplateRegisteredTime" msgid="6781621964320635172">"<xliff:g id="BEARER_SERVICE_CODE">{0}</xliff:g>: Not forwarded"</string>
+    <string name="cfTemplateRegistered" msgid="5073237827620166285">"<xliff:g id="BEARER_SERVICE_CODE">{0}</xliff:g>: ഫോര്‍വേഡ് ചെയ്യപ്പെട്ടിട്ടില്ല"</string>
+    <string name="cfTemplateRegisteredTime" msgid="6781621964320635172">"<xliff:g id="BEARER_SERVICE_CODE">{0}</xliff:g>: ഫോര്‍വേഡ് ചെയ്യപ്പെട്ടിട്ടില്ല"</string>
     <string name="fcComplete" msgid="3118848230966886575">"Feature code complete."</string>
     <string name="fcError" msgid="3327560126588500777">"Connection problem or invalid feature code."</string>
-    <string name="httpErrorOk" msgid="1191919378083472204">"OK"</string>
-    <string name="httpError" msgid="7956392511146698522">"There was a network error."</string>
-    <string name="httpErrorLookup" msgid="4711687456111963163">"Couldn\'t find the URL."</string>
-    <string name="httpErrorUnsupportedAuthScheme" msgid="6299980280442076799">"The site authentication scheme isn\'t supported."</string>
-    <string name="httpErrorAuth" msgid="1435065629438044534">"Couldn\'t authenticate."</string>
-    <string name="httpErrorProxyAuth" msgid="1788207010559081331">"Authentication via the proxy server was unsuccessful."</string>
-    <string name="httpErrorConnect" msgid="8714273236364640549">"Couldn\'t connect to the server."</string>
-    <string name="httpErrorIO" msgid="2340558197489302188">"Couldn\'t communicate with the server. Try again later."</string>
-    <string name="httpErrorTimeout" msgid="4743403703762883954">"The connection to the server timed out."</string>
-    <string name="httpErrorRedirectLoop" msgid="8679596090392779516">"The page contains too many server redirects."</string>
-    <string name="httpErrorUnsupportedScheme" msgid="5015730812906192208">"The protocol isn\'t supported."</string>
-    <string name="httpErrorFailedSslHandshake" msgid="96549606000658641">"Couldn\'t establish a secure connection."</string>
-    <string name="httpErrorBadUrl" msgid="3636929722728881972">"Couldn\'t open the page because the URL is invalid."</string>
-    <string name="httpErrorFile" msgid="2170788515052558676">"Couldn\'t access the file."</string>
-    <string name="httpErrorFileNotFound" msgid="6203856612042655084">"Couldn\'t find the requested file."</string>
-    <string name="httpErrorTooManyRequests" msgid="1235396927087188253">"Too many requests are being processed. Try again later."</string>
+    <string name="httpErrorOk" msgid="1191919378083472204">"ശരി"</string>
+    <string name="httpError" msgid="7956392511146698522">"ശൃംഖലയിലൊരു തകരാറുണ്ടായിരുന്നു."</string>
+    <string name="httpErrorLookup" msgid="4711687456111963163">"യു.ആര്‍.എല്‍ കണ്ടുപിടിക്കാന്‍ സാധിക്കുന്നില്ല."</string>
+    <string name="httpErrorUnsupportedAuthScheme" msgid="6299980280442076799">"സൈറ്റിന്റെ ആധികാരികത ഉറപ്പുവരുത്താനുളള പദ്ധതി പിന്തുണയ്ക്ക്പെട്ടിട്ടില്ല."</string>
+    <string name="httpErrorAuth" msgid="1435065629438044534">"ആധികാരികത ഉറപ്പുവരുത്തുവാന്‍ സാധ്യമായില്ല."</string>
+    <string name="httpErrorProxyAuth" msgid="1788207010559081331">"പ്രോക്സി സേര്‍വെര്‍ വഴിയുള്ള ആധികാരികത ഉറപ്പുവരുത്തല്‍ പരാജയപ്പെട്ടിരിക്കുന്നു."</string>
+    <string name="httpErrorConnect" msgid="8714273236364640549">"സെര്‍വറിലേക്ക് കണക്ട് ചെയ്യുവാന്‍ സാധ്യമല്ല ."</string>
+    <string name="httpErrorIO" msgid="2340558197489302188">"സെര്‍വറുമായി ബന്ധപ്പെടുവാന്‍ സാധ്യമായില്ല. പിന്നീട് ശ്രമിക്കുക."</string>
+    <string name="httpErrorTimeout" msgid="4743403703762883954">"സര്‍വറിലേക്ക് കണക്ട് ചെയ്യുന്നതിനുള്ള സമയം കഴിഞ്ഞിരിക്കുന്നു."</string>
+    <string name="httpErrorRedirectLoop" msgid="8679596090392779516">"പേജില്‍ ഒരുപാട് സെര്‍വര്‍ തിരിചുവിടലുകള്‍ അടങ്ങിയിരിക്കുന്നു."</string>
+    <string name="httpErrorUnsupportedScheme" msgid="5015730812906192208">"പ്രോട്ടോകോള്‍ പിന്തുണയ്ക്കുന്നില്ല ."</string>
+    <string name="httpErrorFailedSslHandshake" msgid="96549606000658641">"സുരക്ഷിതമായ കണക്ഷന്‍ സ്ഥാപിക്കാന്‍ സാധ്യമായില്ല."</string>
+    <string name="httpErrorBadUrl" msgid="3636929722728881972">"അസാധുവായ യു.ആര്‍.എല്‍ കാരണം പേജ് തുറക്കാന്‍ സാധ്യമായില്ല."</string>
+    <string name="httpErrorFile" msgid="2170788515052558676">"ഫയല്‍ ലഭ്യമാകുവാന്‍ സാധ്യമായില്ല."</string>
+    <string name="httpErrorFileNotFound" msgid="6203856612042655084">"ആവശ്യപ്പെട്ട ഫയല്‍ കണ്ടുപിടിക്കാന്‍ സാധ്യമായില്ല."</string>
+    <string name="httpErrorTooManyRequests" msgid="1235396927087188253">"ഒരുപാട് ആവ്യങ്ങള്‍ പ്രൊസസ്സ് ചെയ്തുകൊണ്ടിരിക്കുന്നു. പിന്നീട് ശ്രമിക്കുക."</string>
     <string name="notification_title" msgid="8967710025036163822">"Sign-in error for <xliff:g id="ACCOUNT">%1$s</xliff:g>"</string>
-    <string name="contentServiceSync" msgid="8353523060269335667">"Sync"</string>
-    <string name="contentServiceSyncNotificationTitle" msgid="397743349191901458">"Sync"</string>
-    <string name="contentServiceTooManyDeletesNotificationDesc" msgid="8100981435080696431">"Too many <xliff:g id="CONTENT_TYPE">%s</xliff:g> deletions."</string>
-    <string name="low_memory" product="tablet" msgid="6494019234102154896">"Tablet storage is full. Delete some files to free space."</string>
-    <string name="low_memory" product="default" msgid="3475999286680000541">"Phone storage is full. Delete some files to free space."</string>
-    <string name="me" msgid="6545696007631404292">"Me"</string>
-    <string name="power_dialog" product="tablet" msgid="8545351420865202853">"Tablet options"</string>
-    <string name="power_dialog" product="default" msgid="1319919075463988638">"Phone options"</string>
-    <string name="silent_mode" msgid="7167703389802618663">"Silent mode"</string>
-    <string name="turn_on_radio" msgid="3912793092339962371">"Turn on wireless"</string>
-    <string name="turn_off_radio" msgid="8198784949987062346">"Turn off wireless"</string>
-    <string name="screen_lock" msgid="799094655496098153">"Screen lock"</string>
-    <string name="power_off" msgid="4266614107412865048">"Power off"</string>
-    <string name="silent_mode_silent" msgid="319298163018473078">"Ringer off"</string>
-    <string name="silent_mode_vibrate" msgid="7072043388581551395">"Ringer vibrate"</string>
-    <string name="silent_mode_ring" msgid="8592241816194074353">"Ringer on"</string>
-    <string name="shutdown_progress" msgid="2281079257329981203">"Shutting down…"</string>
-    <string name="shutdown_confirm" product="tablet" msgid="3385745179555731470">"Your tablet will shut down."</string>
-    <string name="shutdown_confirm" product="default" msgid="649792175242821353">"Your phone will shut down."</string>
-    <string name="shutdown_confirm_question" msgid="2906544768881136183">"Do you want to shut down?"</string>
-    <string name="reboot_safemode_title" msgid="7054509914500140361">"Reboot to safe mode"</string>
-    <string name="reboot_safemode_confirm" msgid="55293944502784668">"Do you want to reboot into safe mode? This will disable all third-party applications that you have installed. They will be restored when you reboot again."</string>
-    <string name="recent_tasks_title" msgid="3691764623638127888">"Recent"</string>
-    <string name="no_recent_tasks" msgid="8794906658732193473">"No recent apps"</string>
-    <string name="global_actions" product="tablet" msgid="408477140088053665">"Tablet options"</string>
-    <string name="global_actions" product="default" msgid="2406416831541615258">"Phone options"</string>
-    <string name="global_action_lock" msgid="2844945191792119712">"Screen lock"</string>
-    <string name="global_action_power_off" msgid="4471879440839879722">"Power off"</string>
-    <string name="global_action_bug_report" msgid="7934010578922304799">"Bug report"</string>
-    <string name="bugreport_title" msgid="2667494803742548533">"Take bug report"</string>
+    <string name="contentServiceSync" msgid="8353523060269335667">"സിങ്ക്"</string>
+    <string name="contentServiceSyncNotificationTitle" msgid="397743349191901458">"സിങ്ക്"</string>
+    <string name="contentServiceTooManyDeletesNotificationDesc" msgid="8100981435080696431">"ഒരുപാട് <xliff:g id="CONTENT_TYPE">%s</xliff:g> മായ്ചുകളയലുകള്‍."</string>
+    <string name="low_memory" product="tablet" msgid="6494019234102154896">"ടാബ്ല്റ്റ് സ്റ്റോറേജ് മുഴുവനായിരിക്കുന്നു.ഫ്രീ സ്പെയിസിന് വേണ്ടി കുറച്ച് ഫയലുകള്‍ നീക്കം ചെയ്യുക."</string>
+    <string name="low_memory" product="default" msgid="3475999286680000541">"ഫോണ്‍ സ്റ്റോറേജ് മുഴുവനായിരിക്കുന്നു.ഫ്രീ സ്പെയിസിന് വേണ്ടി കുറച്ച് ഫയലുകള്‍ നീക്കം ചെയ്യുക."</string>
+    <string name="me" msgid="6545696007631404292">"ഞാന്‍"</string>
+    <string name="power_dialog" product="tablet" msgid="8545351420865202853">"ടാബ്ല്റ്റ് ഉപാധികള്‍"</string>
+    <string name="power_dialog" product="default" msgid="1319919075463988638">"ഫോണ്‍ ഉപാധികള്‍"</string>
+    <string name="silent_mode" msgid="7167703389802618663">"സൈലന്റ് മോഡ്"</string>
+    <string name="turn_on_radio" msgid="3912793092339962371">"വയര്‍ലെസ്സ് ഓണ്‍ ആക്കുക"</string>
+    <string name="turn_off_radio" msgid="8198784949987062346">"വയര്‍ലെസ്സ് ഓഫ് ആക്കുക"</string>
+    <string name="screen_lock" msgid="799094655496098153">"സ്ക്രീന്‍ ലോക്ക് "</string>
+    <string name="power_off" msgid="4266614107412865048">"പവര്‍ ഓഫ് "</string>
+    <string name="silent_mode_silent" msgid="319298163018473078">"റിങ്ങര്‍ ഓഫ് "</string>
+    <string name="silent_mode_vibrate" msgid="7072043388581551395">"റിങ്ങര്‍ വൈബ്രേറ്റ് "</string>
+    <string name="silent_mode_ring" msgid="8592241816194074353">"റിങ്ങര്‍ ഓണ്‍ "</string>
+    <string name="shutdown_progress" msgid="2281079257329981203">"അടച്ചു പൂട്ടുന്നു..."</string>
+    <string name="shutdown_confirm" product="tablet" msgid="3385745179555731470">"താങ്കളുടെ ടാബ്ല്റ്റ് അടച്ചുപൂട്ടപ്പെടും."</string>
+    <string name="shutdown_confirm" product="default" msgid="649792175242821353">"താങ്കളുടെ ഫോണ്‍ അടച്ചുപൂട്ടപ്പെടും."</string>
+    <string name="shutdown_confirm_question" msgid="2906544768881136183">"താങ്കള്‍ക്ക് അടച്ചു പൂട്ടണമോ?"</string>
+    <string name="reboot_safemode_title" msgid="7054509914500140361">"സുരക്ഷിത മോഡിലേക്ക് റീബൂട്ട് ചെയ്യുക "</string>
+    <string name="reboot_safemode_confirm" msgid="55293944502784668">"താങ്കള്‍ക്ക് സുരക്ഷിത മോഡിലേക്ക് റീബൂട്ട് ചെയ്യണമൊ?ഇത് താങ്കള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്ത എല്ലാ മൂന്നാമത്തെ പാര്‍ട്ടി പ്രയോഗങ്ങളും പ്രവര്‍ത്തന രഹിതമാക്കും.താങ്കള്‍ വീണ്ടും റീബൂട്ട് ചെയ്യുബോള്‍ അവ പുനഃസ്ഥാപിക്കപ്പെടും."</string>
+    <string name="recent_tasks_title" msgid="3691764623638127888">"അടുത്തിടെയുളള "</string>
+    <string name="no_recent_tasks" msgid="8794906658732193473">"അടുത്തിടെയുളള ആപ്സ് ഒന്നും ഇല്ല "</string>
+    <string name="global_actions" product="tablet" msgid="408477140088053665">"ടാബ്ലറ്റ് ഉപാധികള്‍"</string>
+    <string name="global_actions" product="default" msgid="2406416831541615258">"ഫോണ്‍ ഉപാധികള്‍ "</string>
+    <string name="global_action_lock" msgid="2844945191792119712">"സ്ക്രീന്‍ ലോക്ക് "</string>
+    <string name="global_action_power_off" msgid="4471879440839879722">"പവര്‍ ഓഫ് "</string>
+    <string name="global_action_bug_report" msgid="7934010578922304799">"ബഗ് റിപ്പോര്‍ട്ട് "</string>
+    <string name="bugreport_title" msgid="2667494803742548533">"ബഗ് റിപ്പോര്‍ട്ട് എടുക്കുക"</string>
     <string name="bugreport_message" msgid="398447048750350456">"This will collect information about your current device state, to send as an email message. It will take a little time from starting the bug report until it is ready to be sent. Please be patient."</string>
-    <string name="global_action_toggle_silent_mode" msgid="8219525344246810925">"Silent mode"</string>
-    <string name="global_action_silent_mode_on_status" msgid="3289841937003758806">"Sound is OFF"</string>
-    <string name="global_action_silent_mode_off_status" msgid="1506046579177066419">"Sound is ON"</string>
-    <string name="global_actions_toggle_airplane_mode" msgid="5884330306926307456">"Aeroplane mode"</string>
-    <string name="global_actions_airplane_mode_on_status" msgid="2719557982608919750">"Aeroplane mode is ON"</string>
-    <string name="global_actions_airplane_mode_off_status" msgid="5075070442854490296">"Aeroplane mode is OFF"</string>
+    <string name="global_action_toggle_silent_mode" msgid="8219525344246810925">"നിശബ്ദ് മോഡ് "</string>
+    <string name="global_action_silent_mode_on_status" msgid="3289841937003758806">"ശബ്ദ്ം ഓഫ് ചെയ്യപ്പെട്ടിരിക്കുന്നു"</string>
+    <string name="global_action_silent_mode_off_status" msgid="1506046579177066419">"ശബ്ദ്ം ഓണ്‍ ചെയ്യപ്പെട്ടിരിക്കുന്നു "</string>
+    <string name="global_actions_toggle_airplane_mode" msgid="5884330306926307456">"എയറോപ്ളെയിന്‍ മോഡ് "</string>
+    <string name="global_actions_airplane_mode_on_status" msgid="2719557982608919750">"എയറോപ്ളെയിന്‍ മോഡ് ഓണ്‍ ചെയ്തിരിക്കുന്നു "</string>
+    <string name="global_actions_airplane_mode_off_status" msgid="5075070442854490296">"എയറോപ്ളെയിന്‍ മോഡ് ഓഫ് ചെയ്തിരിക്കുന്നു "</string>
     <string name="status_bar_notification_info_overflow" msgid="5301981741705354993">"999+"</string>
-    <string name="safeMode" msgid="2788228061547930246">"Safe mode"</string>
-    <string name="android_system_label" msgid="6577375335728551336">"Android System"</string>
-    <string name="permgrouplab_costMoney" msgid="5429808217861460401">"Services that cost you money"</string>
-    <string name="permgroupdesc_costMoney" msgid="3293301903409869495">"Do things that can cost you money."</string>
-    <string name="permgrouplab_messages" msgid="7521249148445456662">"Your messages"</string>
-    <string name="permgroupdesc_messages" msgid="7821999071003699236">"Read and write your SMS, email and other messages."</string>
-    <string name="permgrouplab_personalInfo" msgid="3519163141070533474">"Your personal information"</string>
-    <string name="permgroupdesc_personalInfo" msgid="8426453129788861338">"Direct access to information about you, stored in on your contact card."</string>
-    <string name="permgrouplab_socialInfo" msgid="5799096623412043791">"Your social information"</string>
-    <string name="permgroupdesc_socialInfo" msgid="7129842457611643493">"Direct access to information about your contacts and social connections."</string>
-    <string name="permgrouplab_location" msgid="635149742436692049">"Your location"</string>
-    <string name="permgroupdesc_location" msgid="5704679763124170100">"Monitor your physical location."</string>
-    <string name="permgrouplab_network" msgid="5808983377727109831">"Network communication"</string>
+    <string name="safeMode" msgid="2788228061547930246">"സുരക്ഷിത മോഡ് "</string>
+    <string name="android_system_label" msgid="6577375335728551336">"ആന്‍ഡ്രോയിഡ്  ഫോണ്‍ "</string>
+    <string name="permgrouplab_costMoney" msgid="5429808217861460401">"താങ്കള്‍ക്ക് പണം ചെലവാകുന്ന സേവനങ്ങള്‍ "</string>
+    <string name="permgroupdesc_costMoney" msgid="3293301903409869495">"താങ്കള്‍ക്ക് പണം ചെലവാകുന്ന കാര്യങ്ങള്‍ ചെയ്യണമോ?"</string>
+    <string name="permgrouplab_messages" msgid="7521249148445456662">"താങ്കളുടെ സന്ദേസങ്ങള്‍"</string>
+    <string name="permgroupdesc_messages" msgid="7821999071003699236">"താങ്കളുടെ എസ്.എം.എസ്, ഇമെയില്‍ അഥവാ മറ്റുളള സന്ദേശങ്ങള്‍ വായിക്കുക/എഴുതുക ."</string>
+    <string name="permgrouplab_personalInfo" msgid="3519163141070533474">"താങ്കളുടെ സ്വകാര്യ വിവരങ്ങള്‍"</string>
+    <string name="permgroupdesc_personalInfo" msgid="8426453129788861338">"താങ്കളുടെ കോണ്‍ടാക്റ്റ് കാര്‍ഡില്‍ ശേഖരിച്ചു വെച്ചിരിക്കുന്ന താങ്കളെ കുറിച്ചുളള വിവരങ്ങളിലേക്കുളള നേരിട്ടുളള പ്രവേശനം."</string>
+    <string name="permgrouplab_socialInfo" msgid="5799096623412043791">"താങ്കളുടെ സാമൂഹിക വിവരങ്ങള്‍"</string>
+    <string name="permgroupdesc_socialInfo" msgid="7129842457611643493">"താങ്കളുടെ സമ്പര്‍ക്കങ്ങളെക്കുറിച്ചും സാമൂഹിക ബന്ധങ്ങളെക്കുറിച്ചുമുളള വിവരങ്ങളിലേക്കുളള നേരിട്ടുളള പ്രവേശനം."</string>
+    <string name="permgrouplab_location" msgid="635149742436692049">"താങ്കളുടെ സ്ഥാനം"</string>
+    <string name="permgroupdesc_location" msgid="5704679763124170100">"താങ്കളുടെ ഫിസിക്കല്‍ സ്ഥാനം നിരീക്ഷിക്കണമോ."</string>
+    <string name="permgrouplab_network" msgid="5808983377727109831">"ശ്രിഘലയിലൂടെയുളള ആശയവിനിമയം"</string>
     <string name="permgroupdesc_network" msgid="4478299413241861987">"Access various network features."</string>
-    <string name="permgrouplab_bluetoothNetwork" msgid="1585403544162128109">"Bluetooth"</string>
+    <string name="permgrouplab_bluetoothNetwork" msgid="1585403544162128109">"ബ്ളൂടൂത് "</string>
     <string name="permgroupdesc_bluetoothNetwork" msgid="5625288577164282391">"Access devices and networks through Bluetooth."</string>
     <string name="permgrouplab_audioSettings" msgid="8329261670151871235">"Audio Settings"</string>
     <string name="permgroupdesc_audioSettings" msgid="2641515403347568130">"Change audio settings."</string>
     <string name="permgrouplab_affectsBattery" msgid="6209246653424798033">"Affects Battery"</string>
     <string name="permgroupdesc_affectsBattery" msgid="6441275320638916947">"Use features that can quickly drain battery."</string>
-    <string name="permgrouplab_calendar" msgid="5863508437783683902">"Calendar"</string>
+    <string name="permgrouplab_calendar" msgid="5863508437783683902">"കലണ്ടര്‍"</string>
     <string name="permgroupdesc_calendar" msgid="5777534316982184416">"Direct access to calendar and events."</string>
     <string name="permgrouplab_dictionary" msgid="4148597128843641379">"Read User Dictionary"</string>
     <string name="permgroupdesc_dictionary" msgid="7921166355964764490">"Read words in user dictionary."</string>
@@ -192,9 +192,9 @@
     <string name="permgroupdesc_writeDictionary" msgid="2711561994497361646">"Add words to the user dictionary."</string>
     <string name="permgrouplab_bookmarks" msgid="1949519673103968229">"Bookmarks and History"</string>
     <string name="permgroupdesc_bookmarks" msgid="4169771606257963028">"Direct access to bookmarks and browser history."</string>
-    <string name="permgrouplab_deviceAlarms" msgid="6117704629728824101">"Alarm"</string>
+    <string name="permgrouplab_deviceAlarms" msgid="6117704629728824101">"അലാറം"</string>
     <string name="permgroupdesc_deviceAlarms" msgid="4769356362251641175">"Set the alarm clock."</string>
-    <string name="permgrouplab_voicemail" msgid="4162237145027592133">"Voicemail"</string>
+    <string name="permgrouplab_voicemail" msgid="4162237145027592133">"വോയിസ് മെയില്‍"</string>
     <string name="permgroupdesc_voicemail" msgid="2498403969862951393">"Direct access to voicemail."</string>
     <string name="permgrouplab_microphone" msgid="171539900250043464">"Microphone"</string>
     <string name="permgroupdesc_microphone" msgid="7106618286905738408">"Direct access to the microphone to record audio."</string>
@@ -206,17 +206,17 @@
     <string name="permgroupdesc_appInfo" msgid="3950378538049625907">"Ability to affect behaviour of other applications on your device."</string>
     <string name="permgrouplab_wallpaper" msgid="3850280158041175998">"Wallpaper"</string>
     <string name="permgroupdesc_wallpaper" msgid="5630417854750540154">"Change the device wallpaper settings."</string>
-    <string name="permgrouplab_systemClock" msgid="406535759236612992">"Clock"</string>
+    <string name="permgrouplab_systemClock" msgid="406535759236612992">"ഘടികാരം"</string>
     <string name="permgroupdesc_systemClock" msgid="3944359833624094992">"Change the device time or timezone."</string>
     <string name="permgrouplab_statusBar" msgid="2095862568113945398">"Status Bar"</string>
     <string name="permgroupdesc_statusBar" msgid="6242593432226807171">"Change the device status bar settings."</string>
     <string name="permgrouplab_syncSettings" msgid="3341990986147826541">"Sync Settings"</string>
     <string name="permgroupdesc_syncSettings" msgid="7603195265129031797">"Access to the sync settings."</string>
-    <string name="permgrouplab_accounts" msgid="3359646291125325519">"Your accounts"</string>
+    <string name="permgrouplab_accounts" msgid="3359646291125325519">"താങ്കളുടെ അക്കൗണ്ടുകള്‍"</string>
     <string name="permgroupdesc_accounts" msgid="4948732641827091312">"Access the available accounts."</string>
     <string name="permgrouplab_hardwareControls" msgid="7998214968791599326">"Hardware controls"</string>
     <string name="permgroupdesc_hardwareControls" msgid="4357057861225462702">"Direct access to hardware on the handset."</string>
-    <string name="permgrouplab_phoneCalls" msgid="9067173988325865923">"Phone calls"</string>
+    <string name="permgrouplab_phoneCalls" msgid="9067173988325865923">"ഫോണ്‍ കോളുകള്‍"</string>
     <string name="permgroupdesc_phoneCalls" msgid="7489701620446183770">"Monitor, record and process phone calls."</string>
     <string name="permgrouplab_systemTools" msgid="4652191644082714048">"System tools"</string>
     <string name="permgroupdesc_systemTools" msgid="8162102602190734305">"Lower-level access and control of the system."</string>
@@ -224,7 +224,7 @@
     <string name="permgroupdesc_developmentTools" msgid="7058828032358142018">"Features only needed for app developers."</string>
     <string name="permgrouplab_display" msgid="4279909676036402636">"Other Application UI"</string>
     <string name="permgroupdesc_display" msgid="6051002031933013714">"Effect the UI of other applications."</string>
-    <string name="permgrouplab_storage" msgid="1971118770546336966">"Storage"</string>
+    <string name="permgrouplab_storage" msgid="1971118770546336966">"സംഭരണം"</string>
     <string name="permgroupdesc_storage" product="nosdcard" msgid="7442318502446874999">"Access the USB storage."</string>
     <string name="permgroupdesc_storage" product="default" msgid="9203302214915355774">"Access the SD card."</string>
     <string name="permgrouplab_accessibilityFeatures" msgid="7919025602283593907">"Accessibility features"</string>
