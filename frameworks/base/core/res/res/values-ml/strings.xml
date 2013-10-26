@@ -180,9 +180,9 @@
     <string name="permgroupdesc_network" msgid="4478299413241861987">"Access various network features."</string>
     <string name="permgrouplab_bluetoothNetwork" msgid="1585403544162128109">"ബ്ളൂടൂത്ത് "</string>
     <string name="permgroupdesc_bluetoothNetwork" msgid="5625288577164282391">"Access devices and networks through Bluetooth."</string>
-    <string name="permgrouplab_audioSettings" msgid="8329261670151871235">"Audio Settings"</string>
-    <string name="permgroupdesc_audioSettings" msgid="2641515403347568130">"Change audio settings."</string>
-    <string name="permgrouplab_affectsBattery" msgid="6209246653424798033">"Affects Battery"</string>
+    <string name="permgrouplab_audioSettings" msgid="8329261670151871235">"ശബ്ദ ക്രമീകരണങ്ങൾ"</string>
+    <string name="permgroupdesc_audioSettings" msgid="2641515403347568130">"ശബ്ദ ക്രമീകരണങ്ങൾ മാറ്റുക."</string>
+    <string name="permgrouplab_affectsBattery" msgid="6209246653424798033">"ബാറ്ററിയെ ബാധിക്കും"</string>
     <string name="permgroupdesc_affectsBattery" msgid="6441275320638916947">"Use features that can quickly drain battery."</string>
     <string name="permgrouplab_calendar" msgid="5863508437783683902">"കലണ്ടര്‍"</string>
     <string name="permgroupdesc_calendar" msgid="5777534316982184416">"Direct access to calendar and events."</string>
@@ -196,21 +196,21 @@
     <string name="permgroupdesc_deviceAlarms" msgid="4769356362251641175">"Set the alarm clock."</string>
     <string name="permgrouplab_voicemail" msgid="4162237145027592133">"വോയിസ് മെയില്‍"</string>
     <string name="permgroupdesc_voicemail" msgid="2498403969862951393">"Direct access to voicemail."</string>
-    <string name="permgrouplab_microphone" msgid="171539900250043464">"Microphone"</string>
+    <string name="permgrouplab_microphone" msgid="171539900250043464">"മൈക്രോഫോൺ"</string>
     <string name="permgroupdesc_microphone" msgid="7106618286905738408">"Direct access to the microphone to record audio."</string>
-    <string name="permgrouplab_camera" msgid="4820372495894586615">"Camera"</string>
+    <string name="permgrouplab_camera" msgid="4820372495894586615">"ക്യാമറ"</string>
     <string name="permgroupdesc_camera" msgid="2933667372289567714">"Direct access to camera for image or video capture."</string>
-    <string name="permgrouplab_screenlock" msgid="8275500173330718168">"Lock screen"</string>
+    <string name="permgrouplab_screenlock" msgid="8275500173330718168">"സ്ക്രീൻ പൂട്ടുക"</string>
     <string name="permgroupdesc_screenlock" msgid="7067497128925499401">"Ability to affect behaviour of the lock screen on your device."</string>
-    <string name="permgrouplab_appInfo" msgid="8028789762634147725">"Your applications information"</string>
+    <string name="permgrouplab_appInfo" msgid="8028789762634147725">"നിങ്ങളുടെ ആപ്ലിക്കേഷൻ വിവരങ്ങൾ"</string>
     <string name="permgroupdesc_appInfo" msgid="3950378538049625907">"Ability to affect behaviour of other applications on your device."</string>
-    <string name="permgrouplab_wallpaper" msgid="3850280158041175998">"Wallpaper"</string>
+    <string name="permgrouplab_wallpaper" msgid="3850280158041175998">"പൂമുഖദൃശ്യം"</string>
     <string name="permgroupdesc_wallpaper" msgid="5630417854750540154">"Change the device wallpaper settings."</string>
     <string name="permgrouplab_systemClock" msgid="406535759236612992">"ഘടികാരം"</string>
     <string name="permgroupdesc_systemClock" msgid="3944359833624094992">"Change the device time or timezone."</string>
-    <string name="permgrouplab_statusBar" msgid="2095862568113945398">"Status Bar"</string>
+    <string name="permgrouplab_statusBar" msgid="2095862568113945398">"അവസ്ഥാപട്ട"</string>
     <string name="permgroupdesc_statusBar" msgid="6242593432226807171">"Change the device status bar settings."</string>
-    <string name="permgrouplab_syncSettings" msgid="3341990986147826541">"Sync Settings"</string>
+    <string name="permgrouplab_syncSettings" msgid="3341990986147826541">"ക്രമീകരണങ്ങൾ സിങ്ക് ചെയ്യുക"</string>
     <string name="permgroupdesc_syncSettings" msgid="7603195265129031797">"Access to the sync settings."</string>
     <string name="permgrouplab_accounts" msgid="3359646291125325519">"അക്കൗണ്ടുകള്‍"</string>
     <string name="permgroupdesc_accounts" msgid="4948732641827091312">"Access the available accounts."</string>
@@ -218,9 +218,9 @@
     <string name="permgroupdesc_hardwareControls" msgid="4357057861225462702">"Direct access to hardware on the handset."</string>
     <string name="permgrouplab_phoneCalls" msgid="9067173988325865923">"ഫോണ്‍ കോളുകള്‍"</string>
     <string name="permgroupdesc_phoneCalls" msgid="7489701620446183770">"Monitor, record and process phone calls."</string>
-    <string name="permgrouplab_systemTools" msgid="4652191644082714048">"System tools"</string>
+    <string name="permgrouplab_systemTools" msgid="4652191644082714048">"സിസ്റ്റം ഉപകരണങ്ങൾ"</string>
     <string name="permgroupdesc_systemTools" msgid="8162102602190734305">"Lower-level access and control of the system."</string>
-    <string name="permgrouplab_developmentTools" msgid="3446164584710596513">"Development tools"</string>
+    <string name="permgrouplab_developmentTools" msgid="3446164584710596513">"നിർമ്മാണ സാമഗ്രികൾ"</string>
     <string name="permgroupdesc_developmentTools" msgid="7058828032358142018">"Features only needed for app developers."</string>
     <string name="permgrouplab_display" msgid="4279909676036402636">"Other Application UI"</string>
     <string name="permgroupdesc_display" msgid="6051002031933013714">"Effect the UI of other applications."</string>
@@ -239,7 +239,7 @@
     <string name="capability_desc_canRequestFilterKeyEvents" msgid="7463135292204152818">"Includes personal data such as credit card numbers and passwords."</string>
     <string name="permlab_statusBar" msgid="7417192629601890791">"disable or modify status bar"</string>
     <string name="permdesc_statusBar" msgid="8434669549504290975">"Allows the app to disable the status bar or add and remove system icons."</string>
-    <string name="permlab_statusBarService" msgid="7247281911387931485">"status bar"</string>
+    <string name="permlab_statusBarService" msgid="7247281911387931485">"അവസ്ഥാപട്ട"</string>
     <string name="permdesc_statusBarService" msgid="716113660795976060">"Allows the app to be the status bar."</string>
     <string name="permlab_expandStatusBar" msgid="1148198785937489264">"expand/collapse status bar"</string>
     <string name="permdesc_expandStatusBar" msgid="6917549437129401132">"Allows the app to expand or collapse the status bar."</string>

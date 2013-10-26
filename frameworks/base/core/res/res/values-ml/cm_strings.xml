@@ -48,23 +48,23 @@
     <string name="global_actions_expanded_desktop_mode_off_status">Disabled</string>
 
     <!-- Button to reboot the phone, within the Reboot Options dialog -->
-    <string name="reboot_reboot">Reboot</string>
+    <string name="reboot_reboot">പുനരാരംഭിക്കുക</string>
     <!-- Button to reboot the phone into recovery, within the Reboot Options dialog -->
-    <string name="reboot_recovery">Recovery</string>
+    <string name="reboot_recovery">വീണ്ടെടുക്കുക</string>
     <!-- Button to reboot the phone into bootloader, within the Reboot Options dialog -->
-    <string name="reboot_bootloader">Bootloader</string>
+    <string name="reboot_bootloader">ബൂട്ട്‌ലോഡർ</string>
     <!-- Button to reboot the phone into bootmenu, within the Reboot Options dialog -->
-    <string name="reboot_bootmenu">Bootmenu</string>
+    <string name="reboot_bootmenu">ബൂട്ട്‌മെനു</string>
     <!-- Button to reboot the phone into fastboot, within the Reboot Options dialog -->
-    <string name="reboot_fastboot">Fastboot</string>
+    <string name="reboot_fastboot">ഫാസ്റ്റ്ബൂട്ട്</string>
     <!-- Button to reboot the phone into download, within the Reboot Options dialog -->
-    <string name="reboot_download">Download</string>
+    <string name="reboot_download">ഡൗൺലോഡ്</string>
 
     <!-- Reboot Progress Dialog. This is shown if the user chooses to reboot the phone. -->
-    <string name="reboot_progress">Rebooting\u2026</string>
+    <string name="reboot_progress">പുനരാരംഭിക്കുന്നു\u2026</string>
     <!-- Reboot Confirmation Dialog.  When the user chooses to reboot the phone, there will be a confirmation dialog.  This is the message. -->
-    <string name="reboot_confirm" product="tablet">Your tablet will reboot.</string>
-    <string name="reboot_confirm" product="default">Your phone will reboot.</string>
+    <string name="reboot_confirm" product="tablet">നിങ്ങളുടെ ടാബ്‌ലറ്റ് പുനരാരംഭിക്കും.</string>
+    <string name="reboot_confirm" product="default">നിങ്ങളുടെ ഫോൺ പുനരാരംഭിക്കും.</string>
 
     <!-- Title of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
     <string name="permlab_preventpower">prevent power key</string>
@@ -87,13 +87,13 @@
     <string name="storage_sd_dock_card">Dock SD card</string>
 
     <!-- Long-press back kill application -->
-    <string name="app_killed_message">App killed</string>
+    <string name="app_killed_message">ആപ്പിനെ നിർത്തി</string>
 
     <!-- Label for item that reboots the device in phone options dialog -->
-    <string name="global_action_reboot">Reboot</string>
+    <string name="global_action_reboot">പുനരാരംഭിക്കുന്നു</string>
 
     <!-- Label for item that opens the profile choosing dialog -->
-    <string name="global_action_choose_profile">Profile</string>
+    <string name="global_action_choose_profile">പ്രൊഫൈൽ</string>
 
     <!-- Hardware Rotation lock string -->
     <string name="toast_rotation_unlocked">Display rotation unlocked</string>
@@ -164,10 +164,10 @@
     <string name="privacy_guard_notification_detail"><xliff:g id="app">%1$s</xliff:g> will not be able to access personal data</string>
 
     <!-- The title of the profile picker dialog. -->
-    <string name="profile_picker_title">Profiles</string>
+    <string name="profile_picker_title">പ്രൊഫൈലുകൾ</string>
 
     <!-- The item label for the no profile selection item. -->
-    <string name="profile_none">None</string>
+    <string name="profile_none">ഒന്നുമില്ല</string>
 
     <!-- Title of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
     <string name="permlab_cancelNotifications">cancel application notifications</string>
