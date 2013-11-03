@@ -18,98 +18,98 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Name of the status bar as seen in the applications info settings page. [CHAR LIMIT=12] -->
-    <string name="app_label">System UI</string>
+    <string name="app_label">സിസ്റ്റം യുഐ</string>
 
     <!-- The text for the button in the notification window-shade that clears
          all of the currently visible notifications. [CHAR LIMIT=10]-->
-    <string name="status_bar_clear_all_button">Clear</string>
+    <string name="status_bar_clear_all_button">വൃത്തിയാക്കുക</string>
 
     <!-- The text for the button in the notification window-shade that turns
          on do not disturb mode, where notifications no longer show their ticker,
          no sound plays, and no icons are visible.  The windowshade continues to show
          the notifications. [CHAR LIMIT=25]-->
-    <string name="status_bar_do_not_disturb_button">Do not disturb</string>
+    <string name="status_bar_do_not_disturb_button">ദയവായി ശല്ല്യം ചെയ്യരുത്</string>
 
     <!-- The text for the button in the notification window-shade that turns
          off do not disturb mode.  After clicking this, notifications will be
          shown again. [CHAR LIMIT=25] -->
-    <string name="status_bar_please_disturb_button">Show notifications</string>
+    <string name="status_bar_please_disturb_button">അറിയിപ്പുകള്‍ കാണിക്കുക</string>
 
     <!-- Title shown in recents popup for removing an application from the list -->
-    <string name="status_bar_recent_remove_item_title">Remove from list</string>
+    <string name="status_bar_recent_remove_item_title">പട്ടികയില്‍ നിന്നും നീക്കുക</string>
 
     <!-- Title shown in recents popup for inspecting an application's properties -->
-    <string name="status_bar_recent_inspect_item_title">App info</string>
+    <string name="status_bar_recent_inspect_item_title">ആപ്പിന്റെ വിവരങ്ങള്‍</string>
 
     <!-- Message shown in the middle of the screen after clicking on the recent apps button
          when there are no recent apps to show. Also used for accessibility. [CHAR LIMIT=45]-->
-    <string name="status_bar_no_recent_apps">No recent apps</string>
+    <string name="status_bar_no_recent_apps">അടുത്തുപയോഗിച്ച ആപ്പുകള്‍</string>
 
     <!-- Content description for the button to dismiss Recent Apps (only present on large
          devices) -->
-    <string name="status_bar_accessibility_dismiss_recents">Dismiss recent apps</string>
+    <string name="status_bar_accessibility_dismiss_recents">അടുത്തുപയോഗിച്ച ആപ്പുകള്‍ ബഹിഷ്‌കരിക്കുക</string>
 
     <!-- Message that is read when you enter recent apps in TalkBack -->
     <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="one">1 recent app</item>
-        <item quantity="other">%d recent apps</item>
+        <item quantity="one">അടുത്തുപയോഗിച്ച ഒരു ആപ്പ്</item>
+        <item quantity="other">അടുത്തുപയോഗിച്ച %d ആപ്പുകള്‍</item>
     </plurals>
 
     <!-- The label in the bar at the top of the status bar when there are no notifications
          showing.  [CHAR LIMIT=40]-->
-    <string name="status_bar_no_notifications_title">No notifications</string>
+    <string name="status_bar_no_notifications_title">അറിയിപ്പുകളൊന്നുമില്ല</string>
 
     <!-- The label for the group of notifications for ongoing events in the opened version of
          the status bar.  An ongoing call is the prime example of this.  The MP3 music player
          might be another example.   [CHAR LIMIT=40] -->
-    <string name="status_bar_ongoing_events_title">Ongoing</string>
+    <string name="status_bar_ongoing_events_title">നടന്നുകൊണ്ടിരിക്കുന്നവ</string>
 
     <!-- The label for the group of notifications for recent events in the opened version of
          the status bar.  Recently received text messsages (SMS), emails, calendar alerts, etc.
          [CHAR LIMIT=40] -->
-    <string name="status_bar_latest_events_title">Notifications</string>
+    <string name="status_bar_latest_events_title">അറിയിപ്പുകള്‍</string>
 
     <!-- When the battery is low, this is displayed to the user in a dialog.  The title of the low battery alert.  [CHAR LIMIT=NONE]-->
-    <string name="battery_low_title">Connect charger</string>
+    <string name="battery_low_title">ചാര്‍ജര്‍ ബന്ധിപ്പിക്കുക</string>
 
     <!-- When the battery is low, this is displayed to the user in a dialog. The subtitle of the low battery alert. [CHAR LIMIT=NONE] -->
-    <string name="battery_low_subtitle">The battery is getting low.</string>
+    <string name="battery_low_subtitle">ബാറ്ററി കുറവാണ്.</string>
 
     <!-- A message that appears when the battery level is getting low in a dialog.  This is
         appened to the subtitle of the low battery alert.  "number" is the percentage of battery
         remaining [CHAR LIMIT=none]-->
-    <string name="battery_low_percent_format"><xliff:g id="number">%d%%</xliff:g> remaining</string>
+    <string name="battery_low_percent_format"><xliff:g id="number">%d%%</xliff:g> ബാക്കിയുള്ളൂ</string>
 
     <!-- A message that appears when a USB charger is plugged in and the device does not
     support charging on it.  That is, a charger that fits into the USB port and goes into
     a wall socket, not into a computer. (This happens because some devices require more
     current than the USB spec allows.  [CHAR LIMIT=NONE] -->
-    <string name="invalid_charger">USB charging not supported.\nUse only the supplied charger.</string>
+    <string name="invalid_charger">യുഎസ്ബി ചാര്‍ജിങ്ങ് പിന്തുണയ്ക്കുന്നില്ല.\nഉപകരണത്തിന്റെ കൂടെ ലഭിച്ച ചാര്‍ജര്‍ മാത്രം ഉപയോഗിക്കുക.</string>
 
     <!-- When the battery is low, this is the label of the button to go to the
          power usage activity to find out what drained the battery.  [CHAR LIMIT=30] -->
-    <string name="battery_low_why">Battery use</string>
+    <string name="battery_low_why">ബാറ്ററി ഉപഭോഗം</string>
 
     <!-- Name of the button that links to the Settings app. [CHAR LIMIT=NONE] -->
-    <string name="status_bar_settings_settings_button">Settings</string>
+    <string name="status_bar_settings_settings_button">സജ്ജീകരണങ്ങള്‍</string>
 
     <!-- Name of the button that links to the Wifi settings screen. [CHAR LIMIT=NONE] -->
-    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
+    <string name="status_bar_settings_wifi_button">വൈഫൈ</string>
 
     <!-- Label in the system panel for airplane mode (all radios are turned off)[CHAR LIMIT=30] -->
-    <string name="status_bar_settings_airplane">Airplane mode</string>
+    <string name="status_bar_settings_airplane">വിമാന മോഡ്</string>
 
     <!-- Label in system panel saying the device will use the orientation sensor to rotate [CHAR LIMIT=30] -->
-    <string name="status_bar_settings_auto_rotation">Auto-rotate screen</string>
+    <string name="status_bar_settings_auto_rotation">തനിയേ തിരിയുന്ന സ്ക്രീന്‍</string>
 
     <!-- Abbreviation / label for mute brightness mode button. Should be all caps. [CHAR LIMIT=6] -->
-    <string name="status_bar_settings_mute_label">MUTE</string>
+    <string name="status_bar_settings_mute_label">നിശബ്ദം</string>
 
     <!-- Abbreviation / label for automatic brightness mode button. Should be all caps. [CHAR LIMIT=6] -->
-    <string name="status_bar_settings_auto_brightness_label">AUTO</string>
+    <string name="status_bar_settings_auto_brightness_label">തനിയേ</string>
 
     <!-- Label in system panel saying the device will show notifications [CHAR LIMIT=30] -->
-    <string name="status_bar_settings_notifications">Notifications</string>
+    <string name="status_bar_settings_notifications">അറിയിപ്പുകള്‍</string>
 
     <!-- Text to display next to the graphical battery meter.  [CHAR LIMIT=3] -->
     <string name="status_bar_settings_battery_meter_format" translatable="false">
@@ -120,48 +120,48 @@
     <string name="status_bar_network_name_separator" translatable="false">|</string>
 
     <!-- Network connection string for Bluetooth Reverse Tethering -->
-    <string name="bluetooth_tethered">Bluetooth tethered</string>
+    <string name="bluetooth_tethered">ബ്ലൂടൂത്ത് റ്റെതര്‍ ചെയ്തിരിക്കുന്നു</string>
     <!-- Title of a button to open the settings for input methods [CHAR LIMIT=30] -->
-    <string name="status_bar_input_method_settings_configure_input_methods">Set up input methods</string>
+    <string name="status_bar_input_method_settings_configure_input_methods">ഇന്‍പുട്ട് രീതി ക്രമീകരിക്കുക</string>
 
     <!-- Label of a toggle switch to disable use of the physical keyboard in favor of the IME. [CHAR LIMIT=25] -->
-    <string name="status_bar_use_physical_keyboard">Physical keyboard</string>
+    <string name="status_bar_use_physical_keyboard">ഫിസിക്കല്‍ കീബോര്‍ഡ്</string>
 
     <!-- Prompt for the USB device permission dialog [CHAR LIMIT=80] -->
-    <string name="usb_device_permission_prompt">Allow the app <xliff:g id="application">%1$s</xliff:g> to access the USB device?</string>
+    <string name="usb_device_permission_prompt"><xliff:g id="application">%1$s</xliff:g> ആപ്പിനെ യുഎസ്ബി ഉപയോഗിക്കുവാന്‍ അനുവദിക്കണോ?</string>
 
     <!-- Prompt for the USB accessory permission dialog [CHAR LIMIT=80] -->
-    <string name="usb_accessory_permission_prompt">Allow the app <xliff:g id="application">%1$s</xliff:g> to access the USB accessory?</string>
+    <string name="usb_accessory_permission_prompt"><xliff:g id="application">%1$s</xliff:g> ആപ്പിനെ യുഎസ്ബി ഉപകരണം ഉപയോഗിക്കുവാന്‍ അനുവദിക്കണോ?</string>
 
     <!-- Prompt for the USB device confirm dialog [CHAR LIMIT=80] -->
-    <string name="usb_device_confirm_prompt">Open <xliff:g id="activity">%1$s</xliff:g> when this USB device is connected?</string>
+    <string name="usb_device_confirm_prompt">ഈ യുഎസ്ബി ബന്ധിക്കുമ്പോള്‍ <xliff:g id="activity">%1$s</xliff:g> തുറക്കണമോ?</string>
 
     <!-- Prompt for the USB accessory confirm dialog [CHAR LIMIT=80] -->
-    <string name="usb_accessory_confirm_prompt">Open <xliff:g id="activity">%1$s</xliff:g> when this USB accessory is connected?</string>
+    <string name="usb_accessory_confirm_prompt">ഈ യുഎസ്ബി ഉപകരണം ബന്ധിക്കുമ്പോള്‍ <xliff:g id="activity">%1$s</xliff:g> തുറക്കണമോ?</string>
 
     <!-- Prompt for the USB accessory URI dialog [CHAR LIMIT=80] -->
-    <string name="usb_accessory_uri_prompt">No installed apps work with this USB accessory. Learn more about this accessory at <xliff:g id="url">%1$s</xliff:g></string>
+    <string name="usb_accessory_uri_prompt">ഇന്‍സ്റ്റോള്‍ ചെയ്തിരിക്കുന്ന ആപ്പുകള്‍ ഒന്നും ഈ യുഎസ്ബി ഉപകരണവുമായി പ്രവര്‍ത്തിക്കില്ല. ഉപകരണത്തെ പറ്റി കൂടുതല്‍ അറിയാന്‍ <xliff:g id="url">%1$s</xliff:g></string>
 
     <!-- Title for USB accessory dialog.  Used when the name of the accessory cannot be determined.  [CHAR LIMIT=50] -->
-    <string name="title_usb_accessory">USB accessory</string>
+    <string name="title_usb_accessory">യുഎസ്ബി ഉപകരണം</string>
 
     <!-- View button label for USB dialogs.  [CHAR LIMIT=15] -->
-    <string name="label_view">View</string>
+    <string name="label_view">കാണുക</string>
 
     <!-- Checkbox label for USB device dialogs.  [CHAR LIMIT=50] -->
-    <string name="always_use_device">Use by default for this USB device</string>
+    <string name="always_use_device">ഈ യുഎസ്ബിക്ക് സഹജമായി ഉപയോഗിക്കുക</string>
 
     <!-- Checkbox label for USB accessory dialogs.  [CHAR LIMIT=50] -->
-    <string name="always_use_accessory">Use by default for this USB accessory</string>
+    <string name="always_use_accessory">ഈ യുഎസ്ബി ഉപകരണത്തിന് സഹജമായി ഉപയോഗിക്കുക</string>
 
     <!-- Title of confirmation dialog for USB debugging -->
-    <string name="usb_debugging_title">Allow USB debugging?</string>
+    <string name="usb_debugging_title">യുഎസ്ബി ഡീബഗ്ഗിങ്ങ് അനുവദിക്കുക?</string>
 
     <!-- Message of confirmation dialog for USB debugging -->
-    <string name="usb_debugging_message">The computer\'s RSA key fingerprint is:\n<xliff:g id="fingerprint">%1$s</xliff:g></string>
+    <string name="usb_debugging_message">കമ്പ്യൂട്ടറിന്റെ ആര്‍എസ്എ അടയാളം:\n<xliff:g id="fingerprint">%1$s</xliff:g></string>
 
     <!-- Option to always allow USB debugging from the attached computer -->
-    <string name="usb_debugging_always">Always allow from this computer</string>
+    <string name="usb_debugging_always">ഈ കമ്പ്യൂട്ടറെ സ്ഥിരമായി അനുവദിക്കുക</string>
 
     <!-- Checkbox label for application compatibility mode ON (zooming app to look like it's running
          on a phone).  [CHAR LIMIT=25] -->
