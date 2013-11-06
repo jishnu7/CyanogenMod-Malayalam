@@ -23,22 +23,22 @@
     <string name="profileNameNight">രാത്രി</string>
 
     <!-- Names of application groups. -->
-    <string name="profileGroupPhone">ഫോണ്‍</string>
-    <string name="profileGroupCalendar">കലണ്ടര്‍</string>
-    <string name="profileGroupGmail">ജിമെയില്‍</string>
-    <string name="profileGroupEmail">ഇ-മെയില്‍</string>
+    <string name="profileGroupPhone">ഫോൺ<string>
+    <string name="profileGroupCalendar">കലണ്ടർ</string>
+    <string name="profileGroupGmail">ജിമെയിൽ</string>
+    <string name="profileGroupEmail">ഇ-മെയിൽ</string>
     <string name="profileGroupSMS">എസ്.എം.എസ്</string>
 
     <!-- Name of wildcard profile. -->
-    <string name="wildcardProfile">മറ്റുള്ള</string>
+    <string name="wildcardProfile">മറ്റുള്ളവ</string>
 
     <!-- Button to reboot the phone, within the Phone Options dialog -->
-    <string name="reboot_system" product="tablet">റീബൂട്ട് ടാബ്‍ലെറ്റു്</string>
-    <string name="reboot_system" product="default">റീബൂട്ട് ഫോണ്‍</string>
+    <string name="reboot_system" product="tablet">റീബൂട്ട് ടാബ്‍ലെറ്റ്</string>
+    <string name="reboot_system" product="default">റീബൂട്ട് ഫോൺ</string>
     <!-- Reboot Progress Dialog. This is shown if the user chooses to reboot the phone. -->
 
     <!-- label for item that screenshots in phone options dialog -->
-    <string name="global_action_screenshot">സ്ക്രീന്‍ഷോട്ട്</string>
+    <string name="global_action_screenshot">സ്‍ക്രീൻ ഷോട്ട്</string>
 
     <!-- label for item that toggles expand desktop mode -->
     <string name="global_actions_toggle_expanded_desktop_mode">Expanded desktop</string>
